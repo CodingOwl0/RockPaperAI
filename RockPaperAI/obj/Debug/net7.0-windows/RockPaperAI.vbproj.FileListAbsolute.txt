@@ -1,0 +1,17 @@
+C:\Users\lucaf\source\repos\RockPaperAI\RockPaperAI\bin\Debug\net7.0-windows\RockPaperAI.exe
+C:\Users\lucaf\source\repos\RockPaperAI\RockPaperAI\bin\Debug\net7.0-windows\RockPaperAI.deps.json
+C:\Users\lucaf\source\repos\RockPaperAI\RockPaperAI\bin\Debug\net7.0-windows\RockPaperAI.runtimeconfig.json
+C:\Users\lucaf\source\repos\RockPaperAI\RockPaperAI\bin\Debug\net7.0-windows\RockPaperAI.dll
+C:\Users\lucaf\source\repos\RockPaperAI\RockPaperAI\bin\Debug\net7.0-windows\RockPaperAI.pdb
+C:\Users\lucaf\source\repos\RockPaperAI\RockPaperAI\obj\Debug\net7.0-windows\RockPaperAI.vbproj.AssemblyReference.cache
+C:\Users\lucaf\source\repos\RockPaperAI\RockPaperAI\obj\Debug\net7.0-windows\RockPaperAI.Form1.resources
+C:\Users\lucaf\source\repos\RockPaperAI\RockPaperAI\obj\Debug\net7.0-windows\RockPaperAI.vbproj.GenerateResource.cache
+C:\Users\lucaf\source\repos\RockPaperAI\RockPaperAI\obj\Debug\net7.0-windows\RockPaperAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucaf\source\repos\RockPaperAI\RockPaperAI\obj\Debug\net7.0-windows\RockPaperAI.AssemblyInfoInputs.cache
+C:\Users\lucaf\source\repos\RockPaperAI\RockPaperAI\obj\Debug\net7.0-windows\RockPaperAI.AssemblyInfo.vb
+C:\Users\lucaf\source\repos\RockPaperAI\RockPaperAI\obj\Debug\net7.0-windows\RockPaperAI.vbproj.CoreCompileInputs.cache
+C:\Users\lucaf\source\repos\RockPaperAI\RockPaperAI\obj\Debug\net7.0-windows\RockPaperAI.dll
+C:\Users\lucaf\source\repos\RockPaperAI\RockPaperAI\obj\Debug\net7.0-windows\refint\RockPaperAI.dll
+C:\Users\lucaf\source\repos\RockPaperAI\RockPaperAI\obj\Debug\net7.0-windows\RockPaperAI.pdb
+C:\Users\lucaf\source\repos\RockPaperAI\RockPaperAI\obj\Debug\net7.0-windows\RockPaperAI.genruntimeconfig.cache
+C:\Users\lucaf\source\repos\RockPaperAI\RockPaperAI\obj\Debug\net7.0-windows\ref\RockPaperAI.dll
